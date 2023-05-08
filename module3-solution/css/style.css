@@ -23,7 +23,7 @@ body{
   .navbar-brand{
     position: absolute;
     left: 0;
-    float :left ;
+
   }
 
   .navbar-brand h1 { /* Restaurant name */
@@ -34,7 +34,8 @@ body{
     text-shadow: 1px 1px 1px #222;
     margin-top: 0;
     margin-bottom: 0;
-    margin-left: 2vh;
+    margin-left: 0;
+    margin-right: 0;
     line-height: .75;
 
   }
